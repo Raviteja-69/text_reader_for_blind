@@ -2,6 +2,7 @@
 TEXT READER FOR BLIND:
 
 Steps to make a text reader software model using python:
+
 1.	Install the following packages 
 •	Opencv
 -- we are using this package to capture the image using system camera 
