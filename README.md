@@ -1,5 +1,5 @@
-# text_reader_for_blind
-TEXT READER FOR BLIND:
+# Text to speech conversion
+TEXT READER:
 
 Steps to make a text reader software model using python:
 
