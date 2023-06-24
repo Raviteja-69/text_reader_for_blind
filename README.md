@@ -12,7 +12,7 @@ Steps to make a text reader software model using python:
 --used to convert the text string to speech
 •	Pillow
 --used to add image processing capabilities
-2.	Read the given code and understand it well before running it. Read the comments in code to know what is happening at each line of code
+2.	 Read the comments in code to understand it well before running it.
 
 
 
